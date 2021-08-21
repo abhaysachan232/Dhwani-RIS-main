@@ -14,7 +14,7 @@ function App() {
         <h1>Abhay Sachan's Task</h1>
 
         <Switch>
-          <Route exact path="/" component={Page1} />
+          <Route exact path="/Dhwani-RIS-main" component={Page1} />
 
           <Route exact path="/Page2" component={Page2} /> 
         </Switch>
