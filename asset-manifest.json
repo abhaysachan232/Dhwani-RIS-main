@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Dhwani-RIS-main/static/css/main.a617e044.chunk.css",
-    "main.js": "/Dhwani-RIS-main/static/js/main.317c1c63.chunk.js",
-    "main.js.map": "/Dhwani-RIS-main/static/js/main.317c1c63.chunk.js.map",
+    "main.js": "/Dhwani-RIS-main/static/js/main.269eb24a.chunk.js",
+    "main.js.map": "/Dhwani-RIS-main/static/js/main.269eb24a.chunk.js.map",
     "runtime-main.js": "/Dhwani-RIS-main/static/js/runtime-main.96336a50.js",
     "runtime-main.js.map": "/Dhwani-RIS-main/static/js/runtime-main.96336a50.js.map",
     "static/js/2.114348b0.chunk.js": "/Dhwani-RIS-main/static/js/2.114348b0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.96336a50.js",
     "static/js/2.114348b0.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.317c1c63.chunk.js"
+    "static/js/main.269eb24a.chunk.js"
   ]
 }
