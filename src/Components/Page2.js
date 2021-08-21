@@ -49,7 +49,7 @@ export const Page2 = () => {
     <div>
       <h1>This is Page 2</h1>
 
-      <Link to="/">
+      <Link Link to = "/Dhwani-RIS-main" >
         <button className="btn btn-primary" onClick={cancelAPI2}>
           Go To Page 1
         </button>
