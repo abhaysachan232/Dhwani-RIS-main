@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dhwani-RIS-main/static/css/main.a617e044.chunk.css",
+    "main.js": "/Dhwani-RIS-main/static/js/main.317c1c63.chunk.js",
+    "main.js.map": "/Dhwani-RIS-main/static/js/main.317c1c63.chunk.js.map",
+    "runtime-main.js": "/Dhwani-RIS-main/static/js/runtime-main.96336a50.js",
+    "runtime-main.js.map": "/Dhwani-RIS-main/static/js/runtime-main.96336a50.js.map",
+    "static/js/2.114348b0.chunk.js": "/Dhwani-RIS-main/static/js/2.114348b0.chunk.js",
+    "static/js/2.114348b0.chunk.js.map": "/Dhwani-RIS-main/static/js/2.114348b0.chunk.js.map",
+    "static/js/3.f0e15c17.chunk.js": "/Dhwani-RIS-main/static/js/3.f0e15c17.chunk.js",
+    "static/js/3.f0e15c17.chunk.js.map": "/Dhwani-RIS-main/static/js/3.f0e15c17.chunk.js.map",
+    "index.html": "/Dhwani-RIS-main/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Dhwani-RIS-main/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.114348b0.chunk.js.LICENSE.txt": "/Dhwani-RIS-main/static/js/2.114348b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96336a50.js",
+    "static/js/2.114348b0.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.317c1c63.chunk.js"
+  ]
+}
